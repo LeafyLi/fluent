@@ -1,6 +1,6 @@
 # Writing Text
 
-Fluent is a file format designed for storing translations. In consequence,
+Fluent is a file format designed for storing translations. Consequently,
 text is the most important part of any Fluent file. Messages, terms, variants
 and attributes all store their values as text. In Fluent, text values are
 referred to as _patterns_.
